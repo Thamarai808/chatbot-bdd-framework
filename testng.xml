@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="Chatbot BDD Test Suite" parallel="false" verbose="2"><test name="Chatbot Interaction Tests"><classes><class name="runners.TestRunner" /></classes></test></suite>
